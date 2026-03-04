@@ -3,6 +3,7 @@
 Healthcare Data Analyst | Former ER Nurse
 
 I am interested in applying machine learning to healthcare data and developing AI-based clinical decision support systems.
+I combine clinical experience with machine learning to analyze healthcare data and develop medical AI solutions.
 
 ---
 
