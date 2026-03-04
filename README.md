@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hello, I'm Seungmin Oh
 
-<!--
-**aialice-518/aialice-518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Healthcare Data Analyst | Former ER Nurse
 
-Here are some ideas to get you started:
+I am interested in applying machine learning to healthcare data and developing AI-based clinical decision support systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏥 Background
+
+- 6 years experience as an Emergency Room Nurse
+- Experience handling clinical data and patient records
+- Transitioning into Healthcare Data Analysis and Medical AI
+
+---
+
+## 🧠 Skills
+
+### Programming
+Python, Pandas, NumPy
+
+### Machine Learning
+Scikit-learn, CatBoost, LightGBM
+
+### Data Analysis
+Data Cleaning  
+Feature Engineering  
+Model Evaluation
+
+### Tools
+Jupyter Notebook  
+Git / GitHub
+
+---
+
+## 📊 Projects
+
+### IVF Pregnancy Success Prediction
+Machine learning model predicting pregnancy success using IVF clinical data
+
+### Smoking Status Classification
+Predicting smoking status using health check-up data
+
+### Voter Behavior Prediction
+Machine learning model predicting voter tendencies based on survey data
+
+---
+
+## 📫 Contact
+
+Email: your@email.com  
+GitHub: https://github.com/yourid
