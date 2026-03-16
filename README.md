@@ -50,4 +50,4 @@ Machine learning model predicting voter tendencies based on survey data
 ## 📫 Contact
 
 Email: seungmin518@gmail.com 
-GitHub: https://github.com/yourid
+GitHub: https://github.com/aialice-518
