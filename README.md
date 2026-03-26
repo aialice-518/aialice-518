@@ -36,14 +36,21 @@ Git / GitHub
 
 ## 📊 Projects
 
-### IVF Pregnancy Success Prediction
+### [IVF Pregnancy Success Prediction](https://github.com/aialice-518/ivf-pregnancy-prediction.git)
+
 Machine learning model predicting pregnancy success using IVF clinical data
 
-### Smoking Status Classification
+### [Smoking Status Classification](https://github.com/aialice-518/smoking-status-prediction.git)
+
 Predicting smoking status using health check-up data
 
-### Voter Behavior Prediction
+### [Voter Behavior Prediction](https://github.com/aialice-518/psychology-vote-prediction.git)
+
 Machine learning model predicting voter tendencies based on survey data
+
+### [AI Medication and Healthcare Assistant](https://github.com/AI-HealthCare-01/AI_01_04.git)
+
+AI-powered healthcare service that analyzes medical records and prescriptions to generate personalized medication guidance and lifestyle recommendations
 
 ---
 
